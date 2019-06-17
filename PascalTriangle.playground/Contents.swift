@@ -9,7 +9,6 @@
 //          |1 2 1
 //          |1 3 3 1
 //          |1 4 6 4 1
-import Foundation
 
 // A wrapper to allow a tuple to be hashable
 struct Two<T:Hashable,U:Hashable> : Hashable {
