@@ -50,8 +50,6 @@
 // p0 should use f0
 // p1 should use f1
 
-import Foundation
-
 let numberOfPhils = 5
 
 // total of how many forks there are
@@ -60,18 +58,18 @@ let forksSemaphore: [DispatchSemaphore] = Array(repeating: DispatchSemaphore(val
 struct ForkPair {
     let leftFork: DispatchSemaphore
     let rightFork: DispatchSemaphore
-    
+
     init(leftIndex: Int, rightIndex: Int) {
         leftFork = forksSemaphore[leftIndex]
         rightFork = forksSemaphore[rightIndex]
     }
-    
+
     // Signalling that both forks has been picked up
     func pickUpBothForks() {
         leftFork.wait()
         rightFork.wait()
     }
-    
+
     // Signalling that both forks has been picked up
     func putDownBothForks() {
         leftFork.signal()
@@ -80,29 +78,29 @@ struct ForkPair {
 }
 
 struct philosopher {
-    
+
     let philosopherNumber: Int
     let pairOfForks: ForkPair
-    
+
     var leftIndex: Int
     var rightIndex: Int
-    
+
     init(number: Int) {
         leftIndex = number
         rightIndex = number - 1
-        
+
         // edge case for the first philosopher
         // it will have access to the first and last forks
         if rightIndex < 0 {
             rightIndex += numberOfPhils
         }
-        
+
         philosopherNumber = number
         pairOfForks = ForkPair.init(leftIndex: leftIndex, rightIndex: rightIndex)
-        
+
         print("Philosopher \(number) has forks \(leftIndex) and \(rightIndex)")
     }
-    
+
     func eat() {
         while true {
             print("Locking Philosopher \(philosopherNumber) with forks \(leftIndex) and \(rightIndex)")
@@ -117,7 +115,7 @@ struct philosopher {
 
 for i in 0 ..< numberOfPhils {
     let phil = philosopher.init(number: i)
-    
+
     DispatchQueue.global().async {
         phil.eat()
     }

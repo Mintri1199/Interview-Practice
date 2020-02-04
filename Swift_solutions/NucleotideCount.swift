@@ -1,5 +1,3 @@
-import UIKit
-
 func NucleotideCount(strand: String) -> [String : Int] {
   var nucleotideDict = ["T": 0, "A": 0, "C": 0, "G": 0]
   for character in strand {

@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DecimalTree.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NucleotideCount.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binarySearch.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diningPhilosopher.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mergeLinkedList.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromeProduct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pascalTriange.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordCount.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.playground/Contents.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.playground/contents.xcplayground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoutingNucleotide.playground/Contents.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoutingNucleotide.playground/contents.xcplayground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DetectPalundromeProduct.playground/Contents.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DetectPalundromeProduct.playground/contents.xcplayground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/Contents.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/contents.xcplayground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/xcuserdata/jackson_ho.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/Contents.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/contents.xcplayground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/xcuserdata/jackson_ho.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakout-problems/longest-substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/breakout-problems/longest-substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_questions/vertical_traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/vertical_traversal.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foursum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="82" selection-start-line="56" selection-start-column="82" selection-end-line="56" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked-cycle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/count_leaves.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/max_gain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/insert_front.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,82 +43,34 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/foursum.py" />
-        <option value="$PROJECT_DIR$/linked-cycle.py" />
-        <option value="$PROJECT_DIR$/count_leaves.py" />
-        <option value="$PROJECT_DIR$/insert_front.py" />
-        <option value="$PROJECT_DIR$/max_gain.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="interview-question" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/dev/interview-question" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="interview-question" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-question" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-question" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1SWWK8UqldpOgVFotEvF6TtFGlJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/group_questions" />
+      <recent name="$PROJECT_DIR$/SPD2.4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.linked-cycle">
-    <configuration name="foursum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.vertical_traversal">
+    <configuration name="k_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/foursum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/k_largest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linked-cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linked_list_convergence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +99,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked-cycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/linked_list_convergence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_sum_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/two_sum_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twosum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/twosum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vertical_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/vertical_traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,15 +176,33 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.foursum" />
-      <item itemvalue="Python.linked-cycle" />
+      <item itemvalue="Python.twosum" />
+      <item itemvalue="Python.k_largest" />
+      <item itemvalue="Python.two_sum_array" />
+      <item itemvalue="Python.linked_list_convergence" />
+      <item itemvalue="Python.vertical_traversal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.linked-cycle" />
-        <item itemvalue="Python.foursum" />
+        <item itemvalue="Python.vertical_traversal" />
+        <item itemvalue="Python.linked_list_convergence" />
+        <item itemvalue="Python.two_sum_array" />
+        <item itemvalue="Python.k_largest" />
+        <item itemvalue="Python.twosum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -214,64 +226,86 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12848867" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3414387" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918947" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928064" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928064" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2990099" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2006079" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/foursum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="82" selection-start-line="56" selection-start-column="82" selection-end-line="56" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linked-cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/count_leaves.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/max_gain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insert_front.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580469039398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580469039398" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom" timestamp="1580825600706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600706" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676236" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center" timestamp="1580825600705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600705" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676235" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left" timestamp="1580825600704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600704" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676234" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right" timestamp="1580825600705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600705" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676235" />
+    <state width="1899" height="292" key="GridCell.Tab.1.bottom" timestamp="1580511168812">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580482840426" />
+    <state width="1899" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580511168812" />
+    <state width="1899" height="292" key="GridCell.Tab.1.center" timestamp="1580511168811">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580482840425" />
+    <state width="1899" height="292" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580511168811" />
+    <state width="1899" height="292" key="GridCell.Tab.1.left" timestamp="1580511168811">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580482840424" />
+    <state width="1899" height="292" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580511168811" />
+    <state width="1899" height="292" key="GridCell.Tab.1.right" timestamp="1580511168812">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580482840425" />
+    <state width="1899" height="292" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580511168812" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1580470416110">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580470416110" />
+    <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482838442">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580482838442" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1580484199477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580484199477" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_tree.py</url>
+          <line>453</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

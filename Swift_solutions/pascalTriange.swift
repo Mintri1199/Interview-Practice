@@ -13,12 +13,12 @@
 // A wrapper to allow a tuple to be hashable
 struct Two<T:Hashable,U:Hashable> : Hashable {
     let values: (T, U)
-    
+
     func hash(into hasher: inout Hasher) {
         hasher.combine(values.0)
         hasher.combine(values.1)
     }
-    
+
     static func == (lhs: Two<T, U>, rhs: Two<T, U>) -> Bool {
         return lhs.values == rhs.values
     }
@@ -30,12 +30,12 @@ var memoryDict = Dictionary<Two<Int,Int>,Int>()
 // This function will return the number value of the current spot within the triangle
 func pascalSpot(row: Int, col: Int) -> Int{
     let index = Two(values: (row, col))
-    
+
     // This cover the recursive calls and prevent the function from starting at 1
     if memoryDict[index] != nil {
         return memoryDict[index]!
     }
-    
+
     if col == 1 {
         return 1
     } else if row == col {
@@ -44,7 +44,7 @@ func pascalSpot(row: Int, col: Int) -> Int{
     // Call resursively to get the value of the row above
     let upLeft = pascalSpot(row: row - 1, col: col - 1)
     let upRight = pascalSpot(row: row - 1, col: col)
-    
+
     // store the sum of the two values from the row above
     memoryDict[index] = upLeft + upRight
     return upLeft + upRight
@@ -60,3 +60,4 @@ func pascalTriangle(row: Int) {
     }
 }
 
+pascalTriangle(row: 5)

@@ -1,5 +1,3 @@
-import UIKit
-import Foundation
 // Exercism Exercise: Word Count
 // Given a phrase, count the occurrences of each word in that phrase.
 // For example for the input "olly olly in come free"
@@ -32,10 +30,10 @@ func getWordCount(text: String) -> [String : Int]? {
   }
   // Initialize our histogram
   var histogram: [String : Int] = [:]  // O(1)
-  
+
   // Split our text input into an array of substring
   let wordArray = text.split(separator: " ")  // O(n) where n is the length of the text
-  
+
   // Loop through the array and build our histogram
   wordArray.forEach { (substring) in  // O(w) where w is the number of words
     // Change substring into string
@@ -71,14 +69,14 @@ func betterGetWordCount(text: String) -> [String : Int]? {
   }
   // Initialize our histogram
   var histogram: [String : Int] = [:]  // O(1)
-  
+
   // initialize a variable to keep track at our current word
   var currentWord: String = ""  // O(1)
-  
+
   for character in text {  // O(n) where n is the number of character
     // Convert into string
     let strCharacter = String(character)  // O(1)
-    
+
     if strCharacter == " " && currentWord.isEmpty == false {   // O(1)
       histogram[currentWord, default: 0] += 1  // O(1)
       currentWord = ""  // O(1)
