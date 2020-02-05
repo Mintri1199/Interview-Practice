@@ -4,20 +4,21 @@ import binary_tree
 # Assumption: all of the data are unique int
 
 class Solution:
-    #
-    def verticalTraversal(self, root: binary_tree.BinaryTreeNode):
+    
+    def vertical_traversal(self, root: binary_tree.BinaryTreeNode):
         initial_array = []
         
-        self._pre_order(0, 0, root, initial_array.append)
+        self._pre_order(0, 0, root, initial_array.append)  # O(n)
         
-        def _cmp(a, b):
-            """Compare the two input to sorted them"""
-            if a[]
-            
-        sorted_array = sorted(initial_array, key=_cmp)
-        
-        
-        return initial_array
+        sorted_array = sorted(initial_array, key=lambda el: [el[0], -el[1], el[2]])  # what is lambda is saying: sort it in asc ord for the x cordinate and reverse for the y coordinate  # O(nlogn)
+    
+        final_array = [[sorted_array[0][2]]]
+        for i in range(1, len(sorted_array)):  # O(n)
+            if sorted_array[i][0] == sorted_array[i - 1][0]:  # The node are at the same vertical
+                final_array[-1].append(sorted_array[i][2])
+            else:
+                final_array.append([sorted_array[i][2]])
+        return final_array
     
     def _pre_order(self, x, y, node, visit):
         """
@@ -27,7 +28,7 @@ class Solution:
         :param visit: the function applying to the node
         :return: None if leaf
         """
-        visit((x, y, node))
+        visit((x, y, node.data))
         
         if node.is_leaf():
             return
@@ -35,9 +36,8 @@ class Solution:
         self._pre_order(x - 1, y - 1, node.left, visit)
         self._pre_order(x + 1, y - 1, node.right, visit)
         
-    
-    
+        
 tree = binary_tree.BinarySearchTree([4, 2, 6, 1, 3, 5, 7])
 solution = Solution()
 
-print(solution.verticalTraversal(tree.root))
+print(solution.vertical_traversal(tree.root))

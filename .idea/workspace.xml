@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DecimalTree.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NucleotideCount.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binarySearch.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diningPhilosopher.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mergeLinkedList.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindromeProduct.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pascalTriange.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordCount.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch.playground/Contents.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch.playground/contents.xcplayground" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoutingNucleotide.playground/Contents.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoutingNucleotide.playground/contents.xcplayground" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DetectPalundromeProduct.playground/Contents.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DetectPalundromeProduct.playground/contents.xcplayground" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/Contents.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/contents.xcplayground" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiningPhilosopher.playground/playground.xcworkspace/xcuserdata/jackson_ho.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/Contents.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/contents.xcplayground" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PascalTriangle.playground/playground.xcworkspace/xcuserdata/jackson_ho.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/breakout-problems/longest-substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/breakout-problems/longest-substring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/group_questions/vertical_traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/vertical_traversal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +35,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/group_questions" />
-      <recent name="$PROJECT_DIR$/SPD2.4" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Swift_solutions" />
+      <recent name="$PROJECT_DIR$/group_questions" />
+      <recent name="$PROJECT_DIR$/SPD2.4" />
     </key>
   </component>
   <component name="RunManager" selected="Python.vertical_traversal">
@@ -244,25 +219,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580469039398" />
-    <state width="1899" height="218" key="GridCell.Tab.0.bottom" timestamp="1580825600706">
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom" timestamp="1580915087553">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600706" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580915087553" />
     <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676236" />
-    <state width="1899" height="218" key="GridCell.Tab.0.center" timestamp="1580825600705">
+    <state width="1899" height="218" key="GridCell.Tab.0.center" timestamp="1580915087552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600705" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580915087552" />
     <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676235" />
-    <state width="1899" height="218" key="GridCell.Tab.0.left" timestamp="1580825600704">
+    <state width="1899" height="218" key="GridCell.Tab.0.left" timestamp="1580915087551">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600704" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580915087551" />
     <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676234" />
-    <state width="1899" height="218" key="GridCell.Tab.0.right" timestamp="1580825600705">
+    <state width="1899" height="218" key="GridCell.Tab.0.right" timestamp="1580915087552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580825600705" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580915087552" />
     <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580785676235" />
     <state width="1899" height="292" key="GridCell.Tab.1.bottom" timestamp="1580511168812">
       <screen x="0" y="0" width="1920" height="1200" />
