@@ -15,23 +15,27 @@
 from binaryheap import BinaryMinHeap
 
 
-def get_suggestion(org_handle, handle_array) -> [str]:
-    assert len(handle_array) >= 2
+def get_suggestion(org_handle, handle_array, k=2) -> [str]:
+    assert len(handle_array) >= k
     
     suggestion_min_heap = BinaryMinHeap()
     
-    handle_set = set(org_handle)
+    handle_set = set(org_handle)  # O(c)
     
-    for handle in handle_array:
-        curr_score = get_score(handle_set, handle)
+    for handle in handle_array:   # O(n)
+        if suggestion_min_heap.size() < k:
+            curr_score = get_score(handle_set, handle)  # O(c)
+            suggestion_min_heap.insert((handle, curr_score))  # O(k)
         
-        if suggestion_min_heap.size() < 2:
-            suggestion_min_heap.insert((handle, curr_score))
+        elif suggestion_min_heap.get_min()[1] > len(handle):  # Check whether to get the score or not
+            continue
             
-        elif curr_score > suggestion_min_heap.get_min()[1]:
-            suggestion_min_heap.replace_min((handle, curr_score))
+        else:
+            curr_score = get_score(handle_set, handle)  # O(c)
+            if curr_score > suggestion_min_heap.get_min()[1]:
+                suggestion_min_heap.replace_min((handle, curr_score))
     
-    return [x[0] for x in suggestion_min_heap.items]
+    return [x[0] for x in suggestion_min_heap.items]  # O(k)
 
 
 def get_score(handle_set, handle_str) -> int:

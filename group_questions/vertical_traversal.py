@@ -41,3 +41,8 @@ tree = binary_tree.BinarySearchTree([4, 2, 6, 1, 3, 5, 7])
 solution = Solution()
 
 print(solution.vertical_traversal(tree.root))
+
+# solution with level order traversal and buckets
+# 1 get the min and max range for the x coordinate of the tree
+# 2 create an array of buckets
+# 3 Do level order traversal
