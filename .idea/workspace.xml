@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/group_questions/rotate_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swift_solutions/test.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPD2.4/find_handle_suggestions.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPD2.4/find_handle_suggestions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group_questions/mirror_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/mirror_binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_questions/rotate_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/rotate_array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/group_questions/vertical_traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/vertical_traversal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       <recent name="$PROJECT_DIR$/SPD2.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.find_handle_suggestions">
+  <component name="RunManager" selected="Python.rotate_array">
     <configuration name="find_handle_suggestions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +68,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="interview-question" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/k_largest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="linked_list_convergence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/linked_list_convergence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rotate_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/rotate_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.k_largest" />
-      <item itemvalue="Python.two_sum_array" />
-      <item itemvalue="Python.linked_list_convergence" />
-      <item itemvalue="Python.vertical_traversal" />
       <item itemvalue="Python.find_handle_suggestions" />
+      <item itemvalue="Python.linked_list_convergence" />
+      <item itemvalue="Python.two_sum_array" />
+      <item itemvalue="Python.vertical_traversal" />
+      <item itemvalue="Python.rotate_array" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.find_handle_suggestions" />
+        <item itemvalue="Python.rotate_array" />
         <item itemvalue="Python.vertical_traversal" />
+        <item itemvalue="Python.find_handle_suggestions" />
         <item itemvalue="Python.linked_list_convergence" />
         <item itemvalue="Python.two_sum_array" />
-        <item itemvalue="Python.k_largest" />
       </list>
     </recent_temporary>
   </component>
@@ -222,50 +221,55 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580469039398" />
-    <state width="1899" height="2" key="GridCell.Tab.0.bottom" timestamp="1580994264175">
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581110606690">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264175" />
-    <state width="1899" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580958000985" />
-    <state width="1899" height="2" key="GridCell.Tab.0.center" timestamp="1580994264174">
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110606690" />
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom" timestamp="1581153984352">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264174" />
-    <state width="1899" height="292" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580958000984" />
-    <state width="1899" height="2" key="GridCell.Tab.0.left" timestamp="1580994264174">
+    <state width="1899" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581153984352" />
+    <state width="1899" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616007" />
+    <state width="1899" height="220" key="GridCell.Tab.0.center" timestamp="1581153984352">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264174" />
-    <state width="1899" height="292" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580958000983" />
-    <state width="1899" height="2" key="GridCell.Tab.0.right" timestamp="1580994264175">
+    <state width="1899" height="220" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581153984352" />
+    <state width="1899" height="441" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616006" />
+    <state width="1899" height="220" key="GridCell.Tab.0.left" timestamp="1581153984351">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264175" />
-    <state width="1899" height="292" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580958000985" />
-    <state width="1899" height="2" key="GridCell.Tab.1.bottom" timestamp="1580994264176">
+    <state width="1899" height="220" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581153984351" />
+    <state width="1899" height="441" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616006" />
+    <state width="1899" height="220" key="GridCell.Tab.0.right" timestamp="1581153984352">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264176" />
-    <state width="1899" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580958001362" />
-    <state width="1899" height="2" key="GridCell.Tab.1.center" timestamp="1580994264175">
+    <state width="1899" height="220" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581153984352" />
+    <state width="1899" height="441" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616007" />
+    <state width="1899" height="246" key="GridCell.Tab.1.bottom" timestamp="1581153162185">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264175" />
-    <state width="1899" height="292" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580958001361" />
-    <state width="1899" height="2" key="GridCell.Tab.1.left" timestamp="1580994264175">
+    <state width="1899" height="246" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581153162185" />
+    <state width="1899" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
+    <state width="1899" height="246" key="GridCell.Tab.1.center" timestamp="1581153162184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264175" />
-    <state width="1899" height="292" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580958001360" />
-    <state width="1899" height="2" key="GridCell.Tab.1.right" timestamp="1580994264176">
+    <state width="1899" height="246" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581153162184" />
+    <state width="1899" height="441" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
+    <state width="1899" height="246" key="GridCell.Tab.1.left" timestamp="1581153162184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="2" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580994264176" />
-    <state width="1899" height="292" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580958001362" />
-    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1580470416110">
+    <state width="1899" height="246" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581153162184" />
+    <state width="1899" height="441" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616459" />
+    <state width="1899" height="246" key="GridCell.Tab.1.right" timestamp="1581153162185">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580470416110" />
+    <state width="1899" height="246" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581153162185" />
+    <state width="1899" height="441" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1581119373507">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110833604" />
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581119373507" />
     <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482838442">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -282,6 +286,16 @@
           <url>file://$PROJECT_DIR$/binary_tree.py</url>
           <line>453</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/group_questions/rotate_array.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/group_questions/rotate_array.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
