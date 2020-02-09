@@ -25,11 +25,7 @@ def rotate_array(matrix):
             continue
             
         for j in range(offset, len(matrix) - offset - 1):
-            first_val = matrix[offset][j]
-            sec_val = matrix[j][-1 - offset]
-            third_val = matrix[len(matrix) - 1 - offset][len(matrix) - 1 - j]
-            fourth_val = matrix[len(matrix) - 1 - j][offset]
-            matrix[offset][j], matrix[j][-1 - offset], matrix[len(matrix) - 1 - offset][len(matrix) - 1 - j], matrix[len(matrix) - 1 - j][offset] = fourth_val, first_val, sec_val, third_val
+            matrix[offset][j], matrix[j][-1 - offset], matrix[len(matrix) - 1 - offset][len(matrix) - 1 - j], matrix[len(matrix) - 1 - j][offset] = matrix[len(matrix) - 1 - j][offset], matrix[offset][j], matrix[j][-1 - offset], matrix[len(matrix) - 1 - offset][len(matrix) - 1 - j]
         
         offset += 1
             
