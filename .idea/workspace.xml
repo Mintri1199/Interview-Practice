@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SPD2.4/combine_linked_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPD2.4/counter_clockwise_LL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_questions/count_ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_questions/rectangle_in_histogram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/group_questions/mirror_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/mirror_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group_questions/rotate_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_questions/rotate_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +48,8 @@
       <recent name="$PROJECT_DIR$/SPD2.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mirror_binary_tree">
-    <configuration name="find_handle_suggestions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.combine_linked_lists">
+    <configuration name="combine_linked_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/find_handle_suggestions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/combine_linked_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linked_list_convergence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="counter_clockwise_LL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/linked_list_convergence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/counter_clockwise_LL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,6 +112,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="rectangle_in_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/rectangle_in_histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rotate_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,41 +154,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vertical_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="interview-question" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/vertical_traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.find_handle_suggestions" />
-      <item itemvalue="Python.linked_list_convergence" />
-      <item itemvalue="Python.vertical_traversal" />
       <item itemvalue="Python.rotate_array" />
       <item itemvalue="Python.mirror_binary_tree" />
+      <item itemvalue="Python.rectangle_in_histogram" />
+      <item itemvalue="Python.counter_clockwise_LL" />
+      <item itemvalue="Python.combine_linked_lists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.combine_linked_lists" />
+        <item itemvalue="Python.counter_clockwise_LL" />
+        <item itemvalue="Python.rectangle_in_histogram" />
         <item itemvalue="Python.mirror_binary_tree" />
         <item itemvalue="Python.rotate_array" />
-        <item itemvalue="Python.vertical_traversal" />
-        <item itemvalue="Python.find_handle_suggestions" />
-        <item itemvalue="Python.linked_list_convergence" />
       </list>
     </recent_temporary>
   </component>
@@ -224,59 +227,60 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110606690" />
-    <state width="1899" height="246" key="GridCell.Tab.0.bottom" timestamp="1581249734643">
+    <state width="1899" height="303" key="GridCell.Tab.0.bottom" timestamp="1581486110969">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734643" />
-    <state width="1899" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616007" />
-    <state width="1899" height="246" key="GridCell.Tab.0.center" timestamp="1581249734643">
+    <state width="1899" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581486110969" />
+    <state width="1899" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301027" />
+    <state width="1899" height="303" key="GridCell.Tab.0.center" timestamp="1581486110969">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734643" />
-    <state width="1899" height="441" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616006" />
-    <state width="1899" height="246" key="GridCell.Tab.0.left" timestamp="1581249734642">
+    <state width="1899" height="303" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581486110969" />
+    <state width="1899" height="303" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301026" />
+    <state width="1899" height="303" key="GridCell.Tab.0.left" timestamp="1581486110969">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734642" />
-    <state width="1899" height="441" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616006" />
-    <state width="1899" height="246" key="GridCell.Tab.0.right" timestamp="1581249734643">
+    <state width="1899" height="303" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581486110969" />
+    <state width="1899" height="303" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301026" />
+    <state width="1899" height="303" key="GridCell.Tab.0.right" timestamp="1581486110969">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734643" />
-    <state width="1899" height="441" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616007" />
-    <state width="1899" height="246" key="GridCell.Tab.1.bottom" timestamp="1581249734980">
+    <state width="1899" height="303" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581486110969" />
+    <state width="1899" height="303" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301027" />
+    <state width="1899" height="239" key="GridCell.Tab.1.bottom" timestamp="1581258031358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734980" />
+    <state width="1899" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581258031358" />
     <state width="1899" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state width="1899" height="246" key="GridCell.Tab.1.center" timestamp="1581249734980">
+    <state width="1899" height="239" key="GridCell.Tab.1.center" timestamp="1581258031358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734980" />
+    <state width="1899" height="239" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581258031358" />
     <state width="1899" height="441" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state width="1899" height="246" key="GridCell.Tab.1.left" timestamp="1581249734979">
+    <state width="1899" height="239" key="GridCell.Tab.1.left" timestamp="1581258031358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734979" />
+    <state width="1899" height="239" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581258031358" />
     <state width="1899" height="441" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616459" />
-    <state width="1899" height="246" key="GridCell.Tab.1.right" timestamp="1581249734980">
+    <state width="1899" height="239" key="GridCell.Tab.1.right" timestamp="1581258031358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="246" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581249734980" />
+    <state width="1899" height="239" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581258031358" />
     <state width="1899" height="441" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state x="653" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1581119373507">
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1581474729815">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110833604" />
-    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581119373507" />
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581474729815" />
     <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482838442">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580482838442" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1580484199477">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="625" y="268" width="670" height="752" key="search.everywhere.popup" timestamp="1581474834833">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580484199477" />
+    <state x="625" y="268" width="670" height="752" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1581474834833" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -286,7 +290,19 @@
           <line>453</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/group_questions/mirror_binary_tree.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

@@ -105,4 +105,3 @@ def dfs_left_tree(node, visit):
 
         
 print(better_is_mirror(medium_tree))
-
