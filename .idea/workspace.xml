@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPD2.4/reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPD2.4/two_sum_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_questions/class_schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progressive_tax_cal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       <recent name="$PROJECT_DIR$/SPD2.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_linked_list">
+  <component name="RunManager" selected="Python.progressive_tax_cal">
     <configuration name="combine_linked_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mirror_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="progressive_tax_cal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/mirror_binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/progressive_tax_cal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,19 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mirror_binary_tree" />
-      <item itemvalue="Python.rectangle_in_histogram" />
-      <item itemvalue="Python.counter_clockwise_LL" />
       <item itemvalue="Python.combine_linked_lists" />
+      <item itemvalue="Python.counter_clockwise_LL" />
+      <item itemvalue="Python.progressive_tax_cal" />
+      <item itemvalue="Python.rectangle_in_histogram" />
       <item itemvalue="Python.reverse_linked_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.progressive_tax_cal" />
         <item itemvalue="Python.reverse_linked_list" />
         <item itemvalue="Python.combine_linked_lists" />
         <item itemvalue="Python.counter_clockwise_LL" />
         <item itemvalue="Python.rectangle_in_histogram" />
-        <item itemvalue="Python.mirror_binary_tree" />
       </list>
     </recent_temporary>
   </component>
@@ -223,51 +225,51 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110606690" />
-    <state width="1899" height="251" key="GridCell.Tab.0.bottom" timestamp="1581534549500">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="251" key="GridCell.Tab.0.bottom" timestamp="1581746809125">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549500" />
-    <state width="1899" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301027" />
-    <state width="1899" height="251" key="GridCell.Tab.0.center" timestamp="1581534549500">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581534817773" />
+    <state width="1899" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809125" />
+    <state width="1899" height="251" key="GridCell.Tab.0.center" timestamp="1581746809124">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549500" />
-    <state width="1899" height="303" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301026" />
-    <state width="1899" height="251" key="GridCell.Tab.0.left" timestamp="1581534549499">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="310" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581534817773" />
+    <state width="1899" height="251" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809124" />
+    <state width="1899" height="251" key="GridCell.Tab.0.left" timestamp="1581746809123">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549499" />
-    <state width="1899" height="303" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301026" />
-    <state width="1899" height="251" key="GridCell.Tab.0.right" timestamp="1581534549500">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="310" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581534817772" />
+    <state width="1899" height="251" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809123" />
+    <state width="1899" height="251" key="GridCell.Tab.0.right" timestamp="1581746809125">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549500" />
-    <state width="1899" height="303" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581479301027" />
-    <state width="1899" height="251" key="GridCell.Tab.1.bottom" timestamp="1581534549502">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="310" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581534817773" />
+    <state width="1899" height="251" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809125" />
+    <state width="1899" height="251" key="GridCell.Tab.1.bottom" timestamp="1581746809130">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549502" />
-    <state width="1899" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state width="1899" height="251" key="GridCell.Tab.1.center" timestamp="1581534549501">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581534669652" />
+    <state width="1899" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809130" />
+    <state width="1899" height="251" key="GridCell.Tab.1.center" timestamp="1581746809129">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549501" />
-    <state width="1899" height="441" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state width="1899" height="251" key="GridCell.Tab.1.left" timestamp="1581534549501">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="251" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581534669652" />
+    <state width="1899" height="251" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809129" />
+    <state width="1899" height="251" key="GridCell.Tab.1.left" timestamp="1581746809128">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549501" />
-    <state width="1899" height="441" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616459" />
-    <state width="1899" height="251" key="GridCell.Tab.1.right" timestamp="1581534549502">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="251" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581534669651" />
+    <state width="1899" height="251" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809128" />
+    <state width="1899" height="251" key="GridCell.Tab.1.right" timestamp="1581746809129">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="251" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581534549502" />
-    <state width="1899" height="441" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581125616460" />
-    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1581531281970">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="251" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581534669652" />
+    <state width="1899" height="251" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581746809129" />
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1582145453306">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581531281970" />
-    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581474729815" />
+    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582145453306" />
     <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482838442">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -290,6 +292,11 @@
           <url>file://$PROJECT_DIR$/group_questions/mirror_binary_tree.py</url>
           <line>72</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SPD2.4/reverse_linked_list.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
