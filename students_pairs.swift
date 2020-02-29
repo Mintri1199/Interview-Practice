@@ -43,39 +43,56 @@ find_pairs(student_course_pairs_2) =>
 
 
 
-func findStudentsPairs(input: [[String]]) {
-    var studentProfiles = Dictionary<String, Set<String>>()
+// func findStudentsPairs(input: [[String]]) {
+//     var studentProfiles = Dictionary<String, Set<String>>()
 
-    // Building the dictionary
-    for value in input {
-        let name: String = value[0]
-        let studentClass: String = value[1]
+//     // Building the dictionary
+//     for value in input {
+//         let name: String = value[0]
+//         let studentClass: String = value[1]
 
-        if studentProfiles[name] == nil {
-            studentProfiles[name] = Set([studentClass])
-        } else {
-            if var set = studentProfiles[name] {
-                set.insert(studentClass)
-                studentProfiles[name] = set
-            }
-        }
+//         if studentProfiles[name] == nil {
+//             studentProfiles[name] = Set([studentClass])
+//         } else {
+//             if var set = studentProfiles[name] {
+//                 set.insert(studentClass)
+//                 studentProfiles[name] = set
+//             }
+//         }
+//     }
+
+//     print(studentProfiles)
+// }
+
+// let example = [
+// ["58", "Linear Algebra"],
+// ["94", "Art History"],
+// ["94", "Operating Systems"],
+// ["17", "Software Design"],
+// ["58", "Mechanics"],
+// ["58", "Economics"],
+// ["17", "Linear Algebra"],
+// ["17", "Political Science"],
+// ["94", "Economics"],
+// ["25", "Economics"],
+// ["58", "Software Design"],
+// ]
+
+// findStudentsPairs(input: example)
+
+var a = 1
+
+
+withUnsafePointer(to: &a) {
+    print("number value \(a) has address: \($0)")
+}
+// print(a)  // 1
+var closure: (Int) -> Void = {  
+    a = $0 
+    withUnsafePointer(to: &a) {
+       print("number value \(a) has address: \($0)")
     }
-
-    print(studentProfiles)
 }
 
-let example = [
-["58", "Linear Algebra"],
-["94", "Art History"],
-["94", "Operating Systems"],
-["17", "Software Design"],
-["58", "Mechanics"],
-["58", "Economics"],
-["17", "Linear Algebra"],
-["17", "Political Science"],
-["94", "Economics"],
-["25", "Economics"],
-["58", "Software Design"],
-]
-
-findStudentsPairs(input: example)
+// closure(5)
+// print(a)
