@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808540e4-bbf0-4fb9-90e2-ed33378af140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPD2.4/combination_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPD2.4/recursive_fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPD2.4/recursive_last_occ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPD2.4/valid_brackets_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPD2.4/median_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adriana_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students_pairs.swift" beforeDir="false" afterPath="$PROJECT_DIR$/students_pairs.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPD2.4/combination_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPD2.4/combination_digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPD2.4/combine_linked_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPD2.4/combine_linked_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPD2.4/recursive_last_occ.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPD2.4/recursive_last_occ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -48,7 +48,28 @@
       <recent name="$PROJECT_DIR$/SPD2.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.combination_digits">
+  <component name="RunManager" selected="Python.ql">
+    <configuration name="adriana_question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adriana_question.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="combination_digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +91,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="progressive_tax_cal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="median_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-question" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/median_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/progressive_tax_cal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="seve_interview" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="interview-question" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,32 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/group_questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/reverse_linked_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="two_sum_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="interview-question" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPD2.4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPD2.4/two_sum_binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/group_questions/seve_interview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,33 +176,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.reverse_linked_list" />
-      <item itemvalue="Python.progressive_tax_cal" />
-      <item itemvalue="Python.two_sum_binary_tree" />
-      <item itemvalue="Python.recursive_fizz_buzz" />
+      <item itemvalue="Python.seve_interview" />
+      <item itemvalue="Python.adriana_question" />
       <item itemvalue="Python.combination_digits" />
+      <item itemvalue="Python.median_array" />
+      <item itemvalue="Python.recursive_fizz_buzz" />
+      <item itemvalue="Python.ql" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ql" />
+        <item itemvalue="Python.adriana_question" />
+        <item itemvalue="Python.median_array" />
         <item itemvalue="Python.combination_digits" />
         <item itemvalue="Python.recursive_fizz_buzz" />
-        <item itemvalue="Python.two_sum_binary_tree" />
-        <item itemvalue="Python.progressive_tax_cal" />
-        <item itemvalue="Python.reverse_linked_list" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -219,72 +229,31 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580469039398">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1419" height="271" key="GridCell.Tab.0.bottom" timestamp="1594940820645">
+      <screen x="252" y="1080" width="1440" height="900" />
     </state>
-    <state x="604" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580469039398" />
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581110606690">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1899" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1591161866554" />
+    <state width="1419" height="271" key="GridCell.Tab.0.bottom/252.1080.1440.900/0.0.1920.1080@252.1080.1440.900" timestamp="1594940820645" />
+    <state width="1419" height="271" key="GridCell.Tab.0.center" timestamp="1594940820644">
+      <screen x="252" y="1080" width="1440" height="900" />
     </state>
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581110606690" />
-    <state width="1058" height="396" key="GridCell.Tab.0.bottom" timestamp="1582774145664">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1899" height="386" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1591161866553" />
+    <state width="1419" height="271" key="GridCell.Tab.0.center/252.1080.1440.900/0.0.1920.1080@252.1080.1440.900" timestamp="1594940820644" />
+    <state width="1419" height="271" key="GridCell.Tab.0.left" timestamp="1594940820644">
+      <screen x="252" y="1080" width="1440" height="900" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063546" />
-    <state width="1058" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582774145664" />
-    <state width="1058" height="396" key="GridCell.Tab.0.center" timestamp="1582774145663">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1899" height="386" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1591161866553" />
+    <state width="1419" height="271" key="GridCell.Tab.0.left/252.1080.1440.900/0.0.1920.1080@252.1080.1440.900" timestamp="1594940820644" />
+    <state width="1419" height="271" key="GridCell.Tab.0.right" timestamp="1594940820645">
+      <screen x="252" y="1080" width="1440" height="900" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063544" />
-    <state width="1058" height="396" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582774145663" />
-    <state width="1058" height="396" key="GridCell.Tab.0.left" timestamp="1582774145663">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1899" height="386" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1591161866554" />
+    <state width="1419" height="271" key="GridCell.Tab.0.right/252.1080.1440.900/0.0.1920.1080@252.1080.1440.900" timestamp="1594940820645" />
+    <state x="742" y="1390" key="com.intellij.ide.util.TipDialog" timestamp="1594934223810">
+      <screen x="252" y="1080" width="1440" height="900" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063544" />
-    <state width="1058" height="396" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582774145663" />
-    <state width="1058" height="396" key="GridCell.Tab.0.right" timestamp="1582774145664">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063546" />
-    <state width="1058" height="396" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582774145664" />
-    <state width="1058" height="284" key="GridCell.Tab.1.bottom" timestamp="1582774127446">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state width="1899" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063548" />
-    <state width="1058" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582774127446" />
-    <state width="1058" height="284" key="GridCell.Tab.1.center" timestamp="1582774127445">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state width="1899" height="284" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063547" />
-    <state width="1058" height="284" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582774127445" />
-    <state width="1058" height="284" key="GridCell.Tab.1.left" timestamp="1582774127445">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state width="1899" height="284" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063547" />
-    <state width="1058" height="284" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582774127445" />
-    <state width="1058" height="284" key="GridCell.Tab.1.right" timestamp="1582774127445">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state width="1899" height="284" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582215063548" />
-    <state width="1058" height="284" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582774127445" />
-    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1582410046091">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582410046091" />
-    <state x="653" y="413" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582145453306" />
-    <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482838442">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="646" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580482838442" />
-    <state x="121" y="325" width="837" height="550" key="find.popup" timestamp="1582771859358">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state x="121" y="325" width="837" height="550" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1582771859358" />
-    <state x="625" y="268" width="670" height="752" key="search.everywhere.popup" timestamp="1581474834833">
-      <screen x="0" y="0" width="1920" height="1200" />
-    </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580484199477" />
-    <state x="625" y="268" width="670" height="752" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1581474834833" />
+    <state x="742" y="1390" key="com.intellij.ide.util.TipDialog/252.1080.1440.900/0.0.1920.1080@252.1080.1440.900" timestamp="1594934223810" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/261.1080.1440.900/0.0.1920.1080@261.1080.1440.900" timestamp="1589953259787" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,14 +274,14 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SPD2.4/combination_digits.py</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/SPD2.4/median_array.py</url>
+          <line>73</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SPD2.4/combination_digits.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/adriana_question.py</url>
+          <line>220</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

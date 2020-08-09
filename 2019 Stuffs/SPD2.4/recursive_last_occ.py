@@ -1,4 +1,6 @@
 
+
+# Do recursive binary search and then
 def find_indexes(input, target, curr=0, start=None, end=None):
     if input[curr] != target and start is not None:
         return curr - 1
@@ -8,6 +10,3 @@ def find_indexes(input, target, curr=0, start=None, end=None):
         else:
             return
     
-    
-    
-        
