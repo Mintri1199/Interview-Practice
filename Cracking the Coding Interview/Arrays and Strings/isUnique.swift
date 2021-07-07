@@ -63,4 +63,4 @@ func isUniqueSlowBook(input: String) -> Bool {
     return true
 }
 
-print(isUniqueSlowBook(input: exampleTrue))
+print(isUniqueSlow(input: exampleTrue))
